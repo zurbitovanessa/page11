@@ -1,0 +1,43 @@
+div.a {
+    line-height: normal;
+  }
+  div.b {
+    line-height: 1.6;
+  }
+  div.c {
+    font-weight: bold;
+    line-height: 1.6;
+  }
+  div.d {
+    line-height: 1.6;
+    font-weight: normal;
+  }
+  div.e {
+    line-height: 1.6;
+  }
+  h3 {
+    text-align: center;
+    letter-spacing: 3px;
+    }
+  p {text-align: left}
+  
+  div.ab {
+    letter-spacing: 1.6;
+    line-height: 1.6;
+  }
+  
+  div.abb {
+    text-align: right;
+    letter-spacing: 1.6;
+    line-height: 1.6;
+  }
+  
+  div.ac {
+    font-weight: bold;
+    text-align: left;
+    letter-spacing: 1.6;
+    line-height: 1.6;
+  }
+  div.ad {
+    
+  }
